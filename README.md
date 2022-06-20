@@ -13,7 +13,7 @@ Ce en quoi consite ce projet:
 
 ![image](https://user-images.githubusercontent.com/43625844/172031080-aed0ed09-f21d-433a-939a-b4cfabb78f98.png)
 
-- Application de la fonction nlm() pour tenter de réestimer les valeurs des paramètres en minimisant le MSE, puis itérer sur les modèle 1 et 2.
+- Application de la fonction nlm() pour tenter de réestimer les valeurs des paramètres en minimisant le MSE, puis itérer sur les modèles 1 et 2.
 
 
 
